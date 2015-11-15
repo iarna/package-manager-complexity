@@ -1,7 +1,5 @@
 ![fill](boston.jpg)
 
-<!-- 37 slides of 97 slides in 17 minutes -->
-
 # [fit] npm install
 ### where it's complicated
 ### and how it works
