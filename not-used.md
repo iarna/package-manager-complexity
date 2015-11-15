@@ -1,4 +1,4 @@
-So this slide deck is stuff I didn't actually use in the presention. It
+So this slide deck is stuff I didn't actually use in the presentation. It
 represents approaches I didn't like as much or discussions of features that
 weren't as interesting or as focused as I'd like.
 
