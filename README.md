@@ -6,5 +6,5 @@ Read the [slide source code w/ speaker notes](presentation.md).
 
 Ooor, look at the [slides](presentation.pdf) as they showed up on screen.
 
-And Nodevember recorded everything, so when the video is online I'll link to
-that here.
+Or [watch the video](https://www.youtube.com/watch?v=3ShkpzavVFM) of when I
+gave this talk at Nodevember 2015.
